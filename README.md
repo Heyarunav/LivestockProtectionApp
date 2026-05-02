@@ -19,4 +19,4 @@ This is a prototype mobile app built using MIT App Inventor to protect livestock
 •⁠  ⁠⁠ LPS.aia ⁠ - Source code for MIT App Inventor
 
 ## Author:
-@heyarunav
+* Arunav Kalita
